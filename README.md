@@ -1,2 +1,3 @@
 # HelloWorld-Golang
-Mulai Belajar Golang dengan membuat Hello World - Lets gooooooo
+Saya lagi insomnia jadi mari kita sharing sesuatu.......
+Mari kita Belajar Golang dengan membuat Hello World - Lets gooooooo
